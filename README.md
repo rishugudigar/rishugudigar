@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishu</h1>
 <h3 align="center">A passionate Software Developer from India.</h3>
-
+<img align="left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2Fpinterest--59813501292017265%2F&psig=AOvVaw1Z93v_1fYheXPGAzg9OCZ9&ust=1697529474009000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCID3wqGM-oEDFQAAAAAdAAAAABAI">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishugudigar&label=Profile%20views&color=0e75b6&style=flat" alt="rishugudigar" /> </p>
 
 - 📫 How to reach me **rishu.college16@gmail.com**
