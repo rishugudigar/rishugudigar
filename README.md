@@ -1,22 +1,29 @@
+# GitHub Profile README (The Office Edition)
+
+> **"You miss 100% of the shots you don't take."**
+> — Wayne Gretzky
+> — Michael Scott
+
 <div align="center">
 
-# Hi 👋, I'm Rishu Gudigar
+# 👋 Hi, I'm Rishu Gudigar
 
-### Software Development Engineer @ Amadeus | AI Engineering • Distributed Systems • Cloud Native
+### *Assistant to the Software Engineer*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Software+Engineer;Building+AI+Powered+Systems;Distributed+Systems+Enthusiast;Cloud+Native+Developer;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+AI+that+occasionally+behaves.;Backend+Engineer+who+likes+distributed+systems.;Professional+bug+creator.;Currently+convincing+computers+to+translate+better.;Threat+Level%3A+Midnight." />
 
 <p>
+
 <a href="mailto:rishu.gudigar@gmail.com">
-<img src="https://img.shields.io/badge/Email-rishu.gudigar%40gmail.com-red?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Email-rishu.gudigar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/rishu-rg">
-<img src="https://img.shields.io/badge/LinkedIn-Rishu%20Gudigar-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-Rishu%20Gudigar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/rishugudigar">
-<img src="https://img.shields.io/github/followers/rishugudigar?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/github/followers/rishugudigar?style=for-the-badge"/>
 </a>
 
 </p>
@@ -25,19 +32,215 @@
 
 ---
 
-# 👨‍💻 About Me
+## 🗂 Personnel File
 
 ```yaml
 Name: Rishu Gudigar
 
-Location: Bengaluru, India
+Location:
+  Bengaluru, India
 
-Role: Software Development Engineer @ Amadeus
+Occupation:
+  Software Development Engineer @ Amadeus
 
-Experience: 2+ Years
+Specialization:
+  - AI Systems
+  - Backend Engineering
+  - Distributed Systems
+  - Cloud Native Infrastructure
 
-Interests:
-  - AI Agents
+Current Mission:
+  Build software that scales.
+
+Current Obsession:
+  Agentic AI
+
+Coffee:
+  Required ☕
+
+Threat Level:
+  Midnight
+```
+
+---
+
+## 🖥 Things I Convince Computers To Understand
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,ts,js,dart,bash"/>
+</p>
+
+### Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,angular,nodejs,django,spring,flutter"/>
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes,git,linux"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
+</p>
+
+### AI / Data
+
+* LangChain
+* Pinecone
+* ChromaDB
+* Apache Airflow
+* BigQuery
+* Bigtable
+* Pandas
+* Scikit-Learn
+* RAG
+* Semantic Search
+* LLM Orchestration
+
+---
+
+## 📑 Personnel History
+
+### 🏢 Amadeus Software Labs
+
+**Software Development Engineer**
+
+> Built AI-powered localization systems serving enterprise-scale products.
+
+* 🤖 Agentic AI workflows
+* ☁️ Kubernetes & OpenShift
+* ⚡ Airflow Pipelines
+* 🚀 ArgoCD
+* 💻 React + TypeScript
+* 🌍 GCP
+
+---
+
+### 🔒 Security Engineering Intern
+
+Built an internal Threat Modeling Platform used during Secure Development Lifecycle.
+
+---
+
+### 🌐 Web Development Intern
+
+Worked on authentication, dashboards and analytics.
+
+---
+
+## 📂 Case Files
+
+### 🧠 PharmSearch
+
+Medical knowledge search powered by RAG.
+
+> Processed an entire pharmacology textbook into structured embeddings for semantic search and conversational Q&A.
+
+**Tech**
+
+Python • LangChain • Pinecone • OpenAI • Pandas
+
+---
+
+### 📄 GST Biller
+
+Offline Flutter invoicing application.
+
+Features
+
+* GST Calculation
+* SQLite Database
+* PDF Generation
+* Dashboard Analytics
+* Product Management
+
+---
+
+## 📚 Things Dwight Would Probably Approve
+
+* Distributed Systems
+* AI Agents
+* Retrieval-Augmented Generation
+* Kubernetes
+* System Design
+* Event-Driven Architecture
+* LLM Evaluation
+* Performance Optimization
+
+---
+
+## 📈 Daily Report
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rishugudigar&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rishugudigar&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishugudigar&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🏆 Certifications
+
+* Docker Essentials & Containerized Web Applications
+* Monitoring Kubernetes with Prometheus & Grafana
+
+---
+
+## ☕ Current Status
+
+```text
+☕ Coffee:        ██████████ 100%
+
+🐛 Bugs Fixed:    ███████░░░ 70%
+
+✨ Bugs Created:  ██████████ 100%
+
+🧠 AI Ideas:      ██████████ ∞
+
+😴 Sleep:         ██░░░░░░░░ 20%
+```
+
+---
+
+## 📫 Let's Connect
+
+📧 **[rishu.gudigar@gmail.com](mailto:rishu.gudigar@gmail.com)**
+
+💼 **LinkedIn**
+https://linkedin.com/in/rishu-rg
+
+💻 **GitHub**
+https://github.com/rishugudigar
+
+---
+
+<div align="center">
+
+> **"I'm not superstitious... but I am a little stitious."**
+> — Michael Scott
+
+<sub>If something here inspires you, feel free to ⭐ a repository or connect!</sub>
+
+![](https://komarev.com/ghpvc/?username=rishugudigar\&color=blue)
+
+</div>
   - Distributed Systems
   - Backend Engineering
   - System Design
