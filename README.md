@@ -1,12 +1,14 @@
-> **"You miss 100% of the shots you don't take."**
-> — Wayne Gretzky
-> — Michael Scott
-
 <div align="center">
+
+<img src="heading.jpeg" alt="Rishu Gudigar" width="220" />
 
 # 👋 Hi, I'm Rishu Gudigar
 
 ### *Assistant to the Software Engineer*
+
+> “And I knew exactly what to do. But in a much more real sense, I had no idea what to do.”
+>
+> — Michael Scott
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+AI+that+occasionally+behaves.;Backend+Engineer+who+likes+distributed+systems.;Professional+bug+creator.;Currently+convincing+computers+to+translate+better.;Threat+Level%3A+Midnight." />
 
@@ -104,13 +106,15 @@ Threat Level:
 
 ---
 
-## 📑 Personnel History
+## 💼 Work Experience
 
 ### 🏢 Amadeus Software Labs
 
 **Software Development Engineer**
 
 > Built AI-powered localization systems serving enterprise-scale products.
+
+> “And I knew exactly what to do. But in a much more real sense, I had no idea what to do.”
 
 * 🤖 Agentic AI workflows
 * ☁️ Kubernetes & OpenShift
@@ -329,45 +333,7 @@ Currently Learning:
 
 ---
 
-# 🏆 Highlights
-
-✅ Improved translation accuracy
-
-**76% → 93%**
-
----
-
-💰 Reduced Machine Translation cost
-
-**80%**
-
----
-
-⚡ Eliminated API rate limit failures
-
-**100%**
-
----
-
-🎯 Reduced support tickets
-
-**70%**
-
----
-
-🚀 Improved enterprise delivery SLA
-
-**82% → 97%**
-
----
-
-🌍 Localization platform supporting
-
-**50+ repositories**
-
----
-
-# 💼 Experience
+# 💼 Work Experience
 
 ## Software Development Engineer
 
@@ -381,19 +347,19 @@ Currently Learning:
 - TypeScript
 - GCP
 
-Built enterprise localization infrastructure serving multiple global products.
+Built enterprise localization infrastructure serving multiple global products with a strong focus on AI-assisted workflows and cloud-native delivery.
 
 ---
 
 ## Security Engineering Intern
 
-Developed Threat Modelling Platform used during Secure Development Lifecycle.
+Developed a Threat Modelling Platform used during the secure development lifecycle for internal engineering teams.
 
 ---
 
 ## Web Development Intern
 
-Worked on authentication, dashboards and analytics.
+Worked on authentication flows, dashboards, and analytics features for internal web applications.
 
 ---
 
@@ -401,7 +367,7 @@ Worked on authentication, dashboards and analytics.
 
 ## 🧠 PharmSearch
 
-Medical Knowledge Search Engine powered by RAG
+Medical knowledge search engine powered by RAG
 
 - LangChain
 - Pinecone
