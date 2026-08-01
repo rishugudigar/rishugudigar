@@ -6,7 +6,7 @@
 
 ### *Assistant to the Software Engineer*
 
-> “And I knew exactly what to do. But in a much more real sense, I had no idea what to do.”
+> “Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me.”
 >
 > — Michael Scott
 
@@ -32,7 +32,7 @@
 
 ---
 
-## 🗂 Personnel File
+## 🗂 Pam bring my personel file
 
 ```yaml
 Name: Rishu Gudigar
@@ -44,16 +44,18 @@ Occupation:
   Software Development Engineer @ Amadeus
 
 Specialization:
-  - AI Systems
-  - Backend Engineering
-  - Distributed Systems
-  - Cloud Native Infrastructure
+  - Python Scripting
+  - AI Agent Orchestraction
 
 Current Mission:
-  Build software that scales.
+  Wait for Ai bubble to burst again to write code again.
+  Go to gym and have abs
 
 Current Obsession:
   Agentic AI
+  Orange tabby
+  My cat
+  AI which can clean AI Shit
 
 Coffee:
   Required ☕
@@ -64,7 +66,7 @@ Threat Level:
 
 ---
 
-## 🖥 Things I Convince Computers To Understand
+## 🖥 Things I understand with help of Chatgpt Claude and Copilot
 
 ### Languages
 
@@ -90,7 +92,7 @@ Threat Level:
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
 </p>
 
-### AI / Data
+### AI / Data as suggested by AI
 
 * LangChain
 * Pinecone
@@ -106,15 +108,15 @@ Threat Level:
 
 ---
 
-## 💼 Work Experience
+## 💼 Work Experience in Reality
+> “And I knew exactly what to do. But in a much more real sense, I had no idea what to do.”
 
+## 💼 Work Experience
 ### 🏢 Amadeus Software Labs
 
 **Software Development Engineer**
 
 > Built AI-powered localization systems serving enterprise-scale products.
-
-> “And I knew exactly what to do. But in a much more real sense, I had no idea what to do.”
 
 * 🤖 Agentic AI workflows
 * ☁️ Kubernetes & OpenShift
@@ -137,7 +139,7 @@ Worked on authentication, dashboards and analytics.
 
 ---
 
-## 📂 Case Files
+## 📂 What I built because I am a Software Engineer
 
 ### 🧠 PharmSearch
 
@@ -165,16 +167,6 @@ Features
 
 ---
 
-## 📚 Things Dwight Would Probably Approve
-
-* Distributed Systems
-* AI Agents
-* Retrieval-Augmented Generation
-* Kubernetes
-* System Design
-* Event-Driven Architecture
-* LLM Evaluation
-* Performance Optimization
 
 ---
 
@@ -231,6 +223,12 @@ https://linkedin.com/in/rishu-rg
 💻 **GitHub**
 https://github.com/rishugudigar
 
+💻 **Instagram**
+https://www.instagram.com/rishugudigar
+
+💻 **Leetcode**
+https://leetcode.com/u/user9562Ig/
+
 ---
 
 <div align="center">
@@ -243,15 +241,8 @@ https://github.com/rishugudigar
 ![](https://komarev.com/ghpvc/?username=rishugudigar\&color=blue)
 
 </div>
-  - Distributed Systems
-  - Backend Engineering
-  - System Design
-  - Kubernetes
-  - Cloud Infrastructure
 
-Currently Building:
-  - Medical RAG Platform
-  - AI-powered Localization Systems
+
 
 Currently Learning:
   - Advanced System Design
@@ -259,194 +250,3 @@ Currently Learning:
   - LLM Infrastructure
 ```
 
----
-
-# 🚀 What I Do
-
-💡 Build scalable backend systems
-
-🤖 Develop Agentic AI workflows
-
-☁️ Design Cloud Native applications
-
-⚡ Optimize large-scale distributed pipelines
-
-📊 Transform enterprise workflows through automation
-
----
-
-# 🛠 Tech Stack
-
-## Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,dart,ts,js,bash"/>
-
-</p>
-
-## Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=spring,django,nodejs"/>
-
-</p>
-
-## Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,angular,flutter"/>
-
-</p>
-
-## Cloud & DevOps
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes,git,linux"/>
-
-</p>
-
-## Databases
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite"/>
-
-</p>
-
-## AI / Data
-
-- LangChain
-- Pinecone
-- ChromaDB
-- RAG
-- LLM Orchestration
-- Semantic Search
-- Pandas
-- Scikit-Learn
-- BigQuery
-- Bigtable
-- Apache Airflow
-
----
-
-# 💼 Work Experience
-
-## Software Development Engineer
-
-**Amadeus Software Labs**
-
-- AI Agent Orchestration
-- Kubernetes
-- Airflow
-- ArgoCD
-- React
-- TypeScript
-- GCP
-
-Built enterprise localization infrastructure serving multiple global products with a strong focus on AI-assisted workflows and cloud-native delivery.
-
----
-
-## Security Engineering Intern
-
-Developed a Threat Modelling Platform used during the secure development lifecycle for internal engineering teams.
-
----
-
-## Web Development Intern
-
-Worked on authentication flows, dashboards, and analytics features for internal web applications.
-
----
-
-# 🚀 Featured Projects
-
-## 🧠 PharmSearch
-
-Medical knowledge search engine powered by RAG
-
-- LangChain
-- Pinecone
-- GPT
-- Vector Search
-- Medical Dataset Processing
-
----
-
-## 📄 GST Biller
-
-Offline Flutter Application
-
-- GST Calculation
-- SQLite
-- PDF Export
-- Dashboard
-- Invoice Management
-
----
-
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rishugudigar&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rishugudigar&theme=tokyonight"/>
-
-</div>
-
----
-
-# 📊 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishugudigar&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-# 📚 Currently Exploring
-
-- Agentic AI
-- LLM Infrastructure
-- Retrieval Augmented Generation
-- Distributed Systems
-- Kubernetes
-- Event Driven Architecture
-- System Design
-- AI Evaluation
-
----
-
-# 🏅 Certifications
-
-- Docker Essentials & Containerized Web Applications
-- Monitoring Kubernetes using Prometheus & Grafana
-
----
-
-# 📫 Connect with Me
-
-📧 **rishu.gudigar@gmail.com**
-
-💼 **LinkedIn**
-https://linkedin.com/in/rishu-rg
-
-💻 **GitHub**
-https://github.com/rishugudigar
-
----
-
-<div align="center">
-
-### ⭐ If you like my work, consider starring my repositories!
-
-![](https://komarev.com/ghpvc/?username=rishugudigar&color=blue)
-
-</div>
