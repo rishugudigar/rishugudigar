@@ -92,26 +92,11 @@ Threat Level:
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
 </p>
 
-### AI / Data as suggested by AI
-
-* LangChain
-* Pinecone
-* ChromaDB
-* Apache Airflow
-* BigQuery
-* Bigtable
-* Pandas
-* Scikit-Learn
-* RAG
-* Semantic Search
-* LLM Orchestration
-
----
 
 ## 💼 Work Experience in Reality
 > “And I knew exactly what to do. But in a much more real sense, I had no idea what to do.”
 
-## 💼 Work Experience
+## 💼Things I did for money
 ### 🏢 Amadeus Software Labs
 
 **Software Development Engineer**
