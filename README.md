@@ -10,7 +10,7 @@
 >
 > — Michael Scott
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+AI+that+occasionally+behaves.;Backend+Engineer+who+likes+distributed+systems.;Professional+bug+creator.;Currently+convincing+computers+to+translate+better.;Threat+Level%3A+Midnight." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Vibe+Coding+with+100%+trust+on+AI; AI+please+dont+my+job+I+have+bills+to+pay.;Professional+bug+creator.;Threat+Level%3A+Midnight." />
 
 <p>
 
